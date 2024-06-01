@@ -18,9 +18,9 @@ function App() {
     };
     // Array of Facebook Pixel IDs
     const pixelIds = [
-      '2211111362560772',
-      '991914002498057',
-      '3309982329295012'
+      '1687016618500771',
+      '1687016618500771',
+      '1687016618500771'
     ];
 
     // Initialize each Facebook Pixel
